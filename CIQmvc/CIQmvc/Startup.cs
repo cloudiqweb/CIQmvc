@@ -6,6 +6,7 @@ namespace CIQmvc
 {
     public partial class Startup
     {
+        //comments added
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
